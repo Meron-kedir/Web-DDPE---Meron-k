@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>Room Reservation and Pizza Delivery</title>
+</head>
+<body bgcolor="#ccffcc">
+<tr>
+<td align="right" width=10%>
+<a href="C:\Users\Esrael\Desktop\web form\lab 2 exercise.html">Home</a> <span>|</span> <a href="source">podcast</a> <span>|</span> <a href="source">article</a> <span>|</span> <a href="source">ideas</a> <span>|</span><a href="#">signin</a> <span>|</span><a href="register.html">Register</a>
+</td>
+</tr>
+<h1>Reservation Request</h1>
+<form>
+<fieldset>
+<legend>General Information</legend>
+Arrival date: <input type="text" name="arrival date"><br/>
+Nights <input type="number" name="nights"><br/>
+Adults <input type="text" name="adults"><br/>
+Children <input type="text" name="children"><br/>
+</fieldset>
+<br/>
+<fieldset>
+<legend>Preferences</legend>
+Room type: <input type="radio" name="roomtype" value="standard" checked > Standard <input type="radio" name="roomtype" value="Business"> Business<input type="radio" name="roomtype" value="suite"> Suite <br/>
+Bed type: <input type="radio" name="bedtype" value="King" checked> King <input type="radio" name="bedtype" value="Double Double"> Double Double <br/>
+<input type="checkbox" name="preference" value="Smoking"> Smoking
+</fieldset>
+<br/>
+<fieldset>
+<legend>Contact Information</legend>
+Name: <input type="text" name="name"><br/>
+Email: <input type="email" name="email"><br/>
+Phone: <input type="tel" name="phone"><br/>
+</fieldset>
+<br/>
+<input type="submit" name="submit" value="Submit Reservation"> <input type="Reset" name="Reset" value="Clear"><br/>
+</form>
+<h2 align="center">Pizza Delivery</h2> 
+<h3 align="center">Online Order Form</h3>
+<form>
+Name: <input type="text" name="" required> Tel: <input type="text" name="" required><br/>
+Address: <input type="text" name=""required> Email: <input type="text" name="" required><br/>
+Town/City: <input type="text" name=""required><br/>
+Postcode: <input type="text" name=""required><br/>
+</form>
+<p align="center"> *required fields</p>
+<form>
+<fieldset>
+<legend>Toppings</legend>
+<input type="radio" name="" value="Margherita"> Margherita<br/>
+<input type="radio" name="" value="Four Seasons"> Four Seasons<br/>
+<input type="radio" name="" value="Meat Feast"> Meat Feast<br/>
+</fieldset>
+<fieldset>
+<legend>Size</legend>
+<input type="radio" name="" value="Small"> Small<br/>
+<input type="radio" name="" value="Medium"> Medium<br/>
+<input type="radio" name="" value="Large"> Large<br/>
+</fieldset>
+<fieldset>
+<legend>Extras</legend>
+<input type="checkbox" name="" value="Mushrooms">Mushrooms<br/>
+<input type="checkbox" name="" value="Green peppers">Green peppers<br/>
+<input type="checkbox" name="" value="Anchovies"> Anchovies<br/>
+<input type="checkbox" name="" value="Extra cheese"> Extra cheese<br/>
+</fieldset>
+Prefered delivery time: <input type="text" name=""><br/>
+Delivery instructions or Address: <input type="text" name=""><br/>
+<input type="Submit" name="Submit" value="Submit order"><br/>
+</form>
+</body>
+</html>
