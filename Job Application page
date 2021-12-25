@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Job Application</title>
+</head>
+<body bgcolor="#ccffcc">
+<tr>
+<td align="right" width=10%>
+<a href="C:\Users\Esrael\Desktop\web form\lab 2 exercise.html">Home</a> <span>|</span> <a href="source">podcast</a> <span>|</span> <a href="source">article</a> <span>|</span> <a href="source">ideas</a> <span>|</span><a href="#">signin</a> <span>|</span><a href="register.html">Register</a>
+</td>
+</tr>
+<h1>Job Application Form</h1>
+<p>This form below is a Job application form </p>
+<form>
+<fieldset>
+Position Applied for <input type="text" name="position" autofocus><br/>
+Name <input type="text" name="name"><br/>
+Nationality <input type="text" name="nationality"><br/>
+Date of birth <input type="date" name="dateOfBirth"><br/>
+Address <textarea name="address" cols="8" rows="5"></textarea><br/>
+Telephone no <input type="tel" name="phone"><br/>
+Email <input type="email" name="email"><br/>
+</fieldset>
+<fieldset>
+Education background <input type="text" name="position"><br/>
+year completed <input type="text" name="position"><br/>
+Qualifications <input type="text" name="position"><br/>
+</fieldset>
+<fieldset>
+Work Experience <input type="text" name="position"><br/>
+Employer history <input type="text" name="position"><br/>
+Years of experience <input type="text" name="position"><br/>
+</fieldset>
+<fieldset>
+Personal Statement <textarea name="statement" cols="15" rows="6"></textarea><br/>
+</fieldset>
+<fieldset>
+<legend>Reference</legend>
+Referee 1<br/>
+Name <input type="text" name="position"><br/>
+Occupation <input type="text" name="position"><br/>
+Relationship <input type="text" name="position"><br/>
+Address <input type="text" name="position"><br/>
+Telephone <input type="text" name="position"><br/><br/>
+Referee 2<br/>
+Name <input type="text" name="position"><br/>
+Occupation <input type="text" name="position"><br/>
+Relationship <input type="text" name="position"><br/>
+Address <input type="text" name="position"><br/>
+Telephone <input type="text" name="position"><br/>
+</fieldset>
+</form>
+</body>
+</html>
