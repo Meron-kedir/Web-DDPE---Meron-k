@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Feedback Form</title>
+</head>
+<body bgcolor="#ccffcc">
+<tr>
+<td align="right" width=10%>
+<a href="C:\Users\Esrael\Desktop\web form\lab 2 exercise.html">Home</a> <span>|</span> <a href="source">podcast</a> <span>|</span> <a href="source">article</a> <span>|</span> <a href="source">ideas</a> <span>|</span><a href="#">signin</a> <span>|</span><a href="register.html">Register</a>
+</td>
+</tr>
+<h1>Feedback Form</h1>
+<form>
+Name <input type="text" name="name"> <br/>
+email <input type="text" name="name"> <br/>
+<details>
+<summary>Please check all the emotions that apply to you:</summary>
+<ul>
+<li>Angry<input type="checkbox" name="name" value="Angry" checked></li>
+<li>Sad<input type="checkbox" name="name" value="Sad"></li>
+<li>Happy<input type="checkbox" name="name" value="Happy"></li>
+<li>Ambivalent<input type="checkbox" name="name" value="Ambivalent"></li>
+</ul>
+</details>
+<details>
+<summary>How satisfied were you with our service</summary>
+<ul>
+<li>Very satisfied<input type="radio" name="name" value="Very satisfied" checked></li>
+<li>Satisfied<input type="radio" name="name" value="Satisfied"></li>
+<li>Didn't care<input type="radio" name="name" value="Didn't care"></li>
+<li>Dissatisfied<input type="radio" name="name" value="Dissatisfied"></li>
+<li>Very dissatisfied<input type="radio" name="name" value="Very dissatisfied"></li>
+</ul>
+</details>
+Further comments: <textarea name="address" cols="8" rows="5"></textarea><br/>
+</form>
+</body>
+</html>
