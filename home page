@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Life Hacks Index</title>
+<meta name="keyword" content="Life, Hacks, Motivation">
+</head>
+<body>
+<table width="100%" height="100%">
+<tr>
+<td width="10%">
+</td>
+<td>
+	<img src="C:\Users\Esrael\Desktop\html lab2/logo_gold.png" alt="logo"  width="50" height="80">
+</td>
+<td align="right">
+<a href="#">Home</a><span>|</span> <a href="source">podcast</a> <span>|</span> <a href="source">article</a> <span>|</span> <a href="source">ideas</a> <span>|</span> <a href="C:\Users\Esrael\Desktop\html lab 3\resources\auth/signin.html">Signin</a> <span>|</span><a href="C:\Users\Esrael\Desktop\html lab 3\resources\auth/register.html">Register</a><span>|</span><a href="C:\Users\Esrael\Desktop\web form\room and pizza.html">Room and Pizza</a> <span>|</span> <a href="C:\Users\Esrael\Desktop\web form\Job Application.html">Job Application</a><span>|</span><a href="C:\Users\Esrael\Desktop\web form\feedback form.html">Feedback</a>
+</td>
+<td width="10%">
+</td>
+</tr>
+</table>
+<hr/>
+<table>
+<tr>
+<td colspan="2" width="10%"></td>
+<td align="right">
+<a href="Source">Go to bottom</a>
+</td>
+<td width="10%">
+</td>
+</tr>
+<tr>
+<td width="10%">
+</td>
+<td>
+<h1>Eric Hofffer and the Power of Self-Education</h1>
+
+
+<img src="C:\Users\Esrael\Desktop\web form\resources\life1.jpg" usemap="#image-map">
+
+<map name="image-map">
+    <area alt="go to hair style images" title="go to hair style images" href="C:\Users\Esrael\Desktop\html lab2/hair.jpg" coords="969,212,50" shape="circle">
+    <area  alt="go to backpack bag images" title="go to backpack bag images" href="C:\Users\Esrael\Desktop\html lab2/backpack bag.jpg" coords="1080,258,1102,289,1116,323,1118,354,1119,394,1122,440,1107,474,1067,478,1037,464,1029,414,1023,367,1025,329,1025,302,1032,277,1029,261" shape="poly">
+    <area  alt="go to nature images" title="go to nature images" href="C:\Users\Esrael\Desktop\html lab2/nature.jpg" coords="571,192,49,557" shape="rect">
+</map>
+
+
+<p>
+I recently read The True Believer by Eric Hoffer. It’s a book about how mass movements evolve. With a lot of historical examples, the book explains the patterns and common threads among them. It’s an insightful book and reading it was a great learning experience for me.
+<br/> <br/>
+<img src="Source" alt="The True Believer book cover" height= "20%" width="30%">
+<br/><br/>
+What I’d like to share with you here is not the content of the book, though. Instead, I’d like to share with you about the author. 
+<br/><br/>
+You see, I didn’t know about Eric Hoffer before. But I imagined he must be a famous professor from a well-known university. I mean, what else could explain the depth of his insights? The True Believer is an influential book. Here is how 
+<a href="Source">Wikipedia</a> put it... <a href="Source">read more</a>
+</p>
+<hr/>
+<b>New Podcast</b>
+<h2>Jack Ma - How I Overcame Failure</h2>
+<audio src="C:\Users\Esrael\Desktop\html lab2/Jack Ma - How I Overcame Failure.mp3" controls></audio>
+<hr/>
+<b>Pick of The Week</b>
+<h2>24 Hours A Day<h2>
+<video src="C:\Users\Esrael\Desktop\html lab2/24_HOURS.mp4" width="50%" controls></video>
+</td>
+<td valign="top">
+<br/>
+
+<details>
+<summary><b><big>Recent Posts</big></b></summary>
+<ul>
+<li><b>Articles</b></li>
+<ul>
+<li>The Importance of Goals, Especially During Difficult Times</li>
+<li>5 Steps to Discovering Your Life Purpose In 2022!</li>
+</ul>
+
+<li><b>Ideas</b></li>
+<ul>
+<li>10 Books to Read in The Fall</li>
+<li>Top Web Development Projects Ideas</li>
+</ul>
+</ul>
+</details>
+
+<details>
+<summary><b><big>Most Viewed Articls</big></b></summary>
+<ol type="I">
+<li> Instant Gratification Is Stopping You From Reaching Your Goals! li></li>
+<li> Stop Juggling Between Work And Life</li>
+</ol>
+</details>
+<b><big>IP Project Winners<big></b>
+<pre>
+---------------------------------
+Rank    Award 
+---------------------------------
+First   Free hosting and support 
+Second  5GB Mobile Data 
+Third   1GB Mobile Data 
+----------------------------------
+</pre>
+</td>
+<td width="10%">
+</td>
+</tr>
+<tr>
+<td width="10%">
+</td>
+<td colspan ="2">
+<hr/>
+</td>
+<td width="10%">
+</td>
+</tr>
+<tr>
+<td width="10%">
+</td>
+<td>
+Follow Us On: 
+<a href="Source">Facebook</a><span>|</span><a href="Source">Twitter</a>
+</td>
+<td>
+<a href="Source">Privacy</a><span>|</span>
+<a href="Source">Terms of Use</a>
+</td>
+<td width="10%">
+</td>
+</tr>
+<tr>
+<td width="10%">
+</td>
+<td colspan="2" align="center">
+Copyright © AASTU SEng 2021, All Rights Reserved
+</td>
+<td width="10%">
+</td>
+</tr>
+</table>
+</body>
+</html>
